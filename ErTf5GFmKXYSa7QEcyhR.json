@@ -1,8 +1,9 @@
 {
   "sounds": [
-    { "name": "Boom Headshot", "id": 7361085557 },
-    { "name": "Ohhhh", "id": 609079653 },
-    { "name": "Murder", "id": 8329329181 },
-    { "name": "Joker's Laugh", "id": 17026215874 }
+    { "name": "Sata Andagi", "id": 8941612531 },
+    { "name": "Manboo", "id": 72270862303024 },
+    { "name": "kusozako", "id": 90763320252335 },
+    { "name": "Yokai.win", "id": 103966419660274 },
+    { "name": "人の心とかないんかぁ？", "id": 120852910845335 }
   ]
 }
