@@ -1,1 +1,8 @@
-
+{
+  "sounds": [
+    { "name": "Boom Headshot", "id": 7361085557 },
+    { "name": "Ohhhh", "id": 609079653 },
+    { "name": "Murder", "id": 8329329181 },
+    { "name": "Joker's Laugh", "id": 17026215874 }
+  ]
+}
