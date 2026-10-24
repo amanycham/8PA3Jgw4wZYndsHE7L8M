@@ -1,0 +1,266 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        12307734932
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/arm/valorant-leftV2.obj"
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        12307583853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/arm/valorant-rightV2.obj"
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        144076357
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/arm/FP_Wushu_S0_DF.png"
+    },
+    {
+      "name": "ar",
+      "replace_ids": [
+        12613283569,
+        12613284249,
+        14652718299,
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "ar",
+      "replace_ids": [
+        12613284036
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/Gaia-Vandal-Red/Gaia-Vandal-Red-mergedv2.obj"
+    },
+    {
+      "name": "ar",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/Gaia-Vandal-Red/Gaia-Vandal-Red-Mag-mergedv2.obj"
+    },
+    {
+      "name": "ar",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/sound/Gaias%20shoot.mp3"
+    },
+    {
+      "name": "sinper",
+      "replace_ids": [
+        13188892651,
+        14002915797,
+        14774727092,
+        13188893017,
+        13188893115,
+        14778413014,
+        13270206222,
+        13455394948,
+        13188892855,
+        13188893310
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sinper",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/chamber-sinper/main.obj"
+    },
+    {
+      "name": "sinper",
+      "replace_ids": [
+        13270206087
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/sound/Preview_TourDeForce_Fire_FP_Full.wav"
+    },
+    {
+      "name": "sinper",
+      "replace_ids": [
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sinper",
+      "replace_ids": [
+        13269934368
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89426100452654
+    },
+    {
+      "name": "sinper",
+      "replace_ids": [
+        13188893310,
+        13455229188,
+        13455229044,
+        13455394948,
+        13455395017
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/jett-dagger/main.obj"
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        119886777451265
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95318866540833
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        129248911141724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92527815421098
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        107117835992268
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111373555305620
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        76331161535117
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 138921174963297
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        136507313237137
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 95472048087093
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        91782309305074
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77149665703840
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        129248911141724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92527815421098
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        99837158417289
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        101759165907297
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/sound/Wushu_AbilX_Cast_Dagger_1P_01.wav"
+    },
+    {
+      "name": "dagg",
+      "replace_ids": [
+        76357741438822
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/sound/Wushu_AbilX_Cast_Dagger_1P_03.wav"
+    },
+    {
+      "name": "ar",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/Gaia-Vandal-Red/ar.png"
+    },
+    {
+      "name": "dagger",
+      "replace_ids": [
+        91885384580845
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/jett-dagger/daggers.png"
+    },
+    {
+      "name": "sinper",
+      "replace_ids": [
+        17160799574
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/engnyg/123f1/refs/heads/main/valorant/chamber-sinper/sniper.png"
+    }
+  ]
+}

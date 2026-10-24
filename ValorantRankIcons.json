@@ -1,0 +1,184 @@
+{
+  "replacement_rules": [
+    {
+      "name": "rank: bronze  1-> wood sword",
+      "replace_ids": [
+        106623367501544
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Bronze_1_Rank.png"
+    },
+    {
+      "name": "rank: silver 1 -> stone sword",
+      "replace_ids": [
+        80716950169934
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Silver_1_Rank.png"
+    },
+    {
+      "name": "rank: silver 2 -> stone sword",
+      "replace_ids": [
+        136100661820261
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Silver_2_Rank.png"
+    },
+    {
+      "name": "rank: silver 3 -> stone sword",
+      "replace_ids": [
+        107898816876115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Silver_3_Rank.png"
+    },
+    {
+      "name": "rank: gold 1 -> iron sword",
+      "replace_ids": [
+        134520747948636
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Gold_1_Rank.png"
+    },
+    {
+      "name": "rank: gold 2 -> iron sword",
+      "replace_ids": [
+        114166096331502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Gold_2_Rank.png"
+    },
+    {
+      "name": "rank: gold 3 -> iron sword",
+      "replace_ids": [
+        90039594400813
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Gold_3_Rank.png"
+    },
+    {
+      "name": "rank: plat 1 -> platinum1",
+      "replace_ids": [
+        133903971285645
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Platinum_1_Rank.png"
+    },
+    {
+      "name": "rank: plat 2 -> platinum2",
+      "replace_ids": [
+        82834564754747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Platinum_2_Rank.png"
+    },
+    {
+      "name": "rank: plat 3 -> platinum3",
+      "replace_ids": [
+        73345783863790
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Platinum_3_Rank.png"
+    },
+    {
+      "name": "rank: diam 1 -> diamond",
+      "replace_ids": [
+        113997689031026
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Diamond_1_Rank.png"
+    },
+    {
+      "name": "rank: diam 2 -> diamond2",
+      "replace_ids": [
+        88059506918419
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Diamond_2_Rank.png"
+    },
+    {
+      "name": "rank: diam 3 -> diamond3",
+      "replace_ids": [
+        112183171942172
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Diamond_3_Rank.png"
+    },
+    {
+      "name": "rank: o1 -> emerald",
+      "replace_ids": [
+        104871954739030
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Ascendant_1_Rank.png"
+    },
+    {
+      "name": "rank: o2 -> ender eye",
+      "replace_ids": [
+        109012386782238
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Ascendant_2_Rank.png"
+    },
+    {
+      "name": "rank: o3 -> nether star",
+      "replace_ids": [
+        127982903682334
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Ascendant_3_Rank.png"
+    },
+    {
+      "name": "arch (top)",
+      "replace_ids": [
+        133793956251748
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Radiant_Rank.png"
+    },
+    {
+      "name": "nem (top standard)",
+      "replace_ids": [
+        116941545385923
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Immortal_3_Rank.png"
+    },
+    {
+      "name": "rank: bronze 2-> wood sword",
+      "replace_ids": [
+        131795064007344
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Bronze_2_Rank.png"
+    },
+    {
+      "name": "rank: bronze 3-> wood sword",
+      "replace_ids": [
+        73543520622815
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xillyware/rritvri/main/files/ranks/Bronze_3_Rank.png"
+    }
+  ]
+}
