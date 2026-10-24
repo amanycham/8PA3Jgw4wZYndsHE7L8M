@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "source": "Integration presets; original weather template bundle has not been recovered",
+  "presets": [
+    {
+      "name": "Rain",
+      "texture": "rbxasset://textures/particles/sparkles_main.dds",
+      "rate": 400,
+      "lifetime": [1.2, 1.6],
+      "speed": [55, 70],
+      "size": 0.18,
+      "squash": 8,
+      "orientation": "VelocityParallel",
+      "rotation": [0, 0],
+      "rotationSpeed": [0, 0],
+      "spread": [8, 8],
+      "lightEmission": 0.2,
+      "transparency": 0.35
+    },
+    {
+      "name": "Snow",
+      "texture": "rbxasset://textures/particles/sparkles_main.dds",
+      "rate": 200,
+      "lifetime": [5, 7],
+      "speed": [6, 10],
+      "size": 0.18,
+      "squash": 0,
+      "orientation": "FacingCamera",
+      "rotation": [0, 360],
+      "rotationSpeed": [-25, 25],
+      "spread": [8, 8],
+      "lightEmission": 0.2,
+      "transparency": 0.35
+    }
+  ]
+}

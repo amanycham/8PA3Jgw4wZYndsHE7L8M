@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "source": {
+    "file": "Unnamed_Enhancements.lua",
+    "method": "Decoded constant operands and traced root VM table assignments"
+  },
+  "animations": [
+    {
+      "name": "gun",
+      "id": "107728954756412"
+    },
+    {
+      "name": "hip bounce",
+      "id": "103606174140721"
+    },
+    {
+      "name": "gangnam style",
+      "id": "129764254213842"
+    },
+    {
+      "name": "ghost floating",
+      "id": "112082806790047"
+    },
+    {
+      "name": "lay floating",
+      "id": "110835852737455"
+    },
+    {
+      "name": "zesty sturdy",
+      "id": "135352615099208"
+    },
+    {
+      "name": "french confidence",
+      "id": "126275747804327"
+    },
+    {
+      "name": "crawing in a circle",
+      "id": "73171328255147"
+    },
+    {
+      "name": "long legs",
+      "id": "136418721245851"
+    },
+    {
+      "name": "solar system",
+      "id": "86806707642727"
+    },
+    {
+      "name": "spiral",
+      "id": "117500772997394"
+    },
+    {
+      "name": "full wiggle",
+      "id": "118493257042591"
+    },
+    {
+      "name": "the worm",
+      "id": "112024753958948"
+    },
+    {
+      "name": "take the l",
+      "id": "84744842499780"
+    },
+    {
+      "name": "kicking feet",
+      "id": "80754582835479"
+    },
+    {
+      "name": "floss",
+      "id": "10714340543"
+    },
+    {
+      "name": "hype dance",
+      "id": "10714369624"
+    },
+    {
+      "name": "frosty flair",
+      "id": "10214311282"
+    },
+    {
+      "name": "rock out",
+      "id": "18225053113"
+    },
+    {
+      "name": "dolphin dance",
+      "id": "10714068222"
+    },
+    {
+      "name": "lets drive",
+      "id": "17360699557"
+    },
+    {
+      "name": "dance break",
+      "id": "15963314052"
+    },
+    {
+      "name": "still standing",
+      "id": "11444443576"
+    },
+    {
+      "name": "twirl",
+      "id": "10714293450"
+    },
+    {
+      "name": "samba",
+      "id": "10714386947"
+    },
+    {
+      "name": "take me under",
+      "id": "10714345459"
+    },
+    {
+      "name": "line dance",
+      "id": "10714383856"
+    },
+    {
+      "name": "bodybuilder",
+      "id": "10713990381"
+    }
+  ]
+}

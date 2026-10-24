@@ -1,7 +1,86 @@
 {
+  "version": 1,
+  "source": {
+    "file": "Unnamed_Enhancements.lua",
+    "method": "Decoded constant operands and traced root VM table assignments"
+  },
   "sounds": [
-    { "name": "Neverlose", "id": "6607204501" },
-    { "name": "Sparkle", "id": "132463144859699" },
-    { "name": "Minecraft", "id": "4018616850" }
+    {
+      "name": "bow hit",
+      "id": "1053296915"
+    },
+    {
+      "name": "click",
+      "id": "1347140027"
+    },
+    {
+      "name": "csgo",
+      "id": "5764885315"
+    },
+    {
+      "name": "damage",
+      "id": "8587183599"
+    },
+    {
+      "name": "explosion",
+      "id": "90854697257230"
+    },
+    {
+      "name": "gamesense",
+      "id": "4817809188"
+    },
+    {
+      "name": "hitmarker",
+      "id": "1129547534"
+    },
+    {
+      "name": "hover",
+      "id": "6333717580"
+    },
+    {
+      "name": "ice",
+      "id": "268934012"
+    },
+    {
+      "name": "impact",
+      "id": "6759025689"
+    },
+    {
+      "name": "minecraft",
+      "id": "4018616850"
+    },
+    {
+      "name": "neverlose",
+      "id": "6607204501"
+    },
+    {
+      "name": "pop",
+      "id": "18803667669"
+    },
+    {
+      "name": "rust",
+      "id": "5043539486"
+    },
+    {
+      "name": "sparkle",
+      "id": "132463144859699"
+    },
+    {
+      "name": "steve",
+      "id": "4965083997"
+    },
+    {
+      "name": "tf2",
+      "id": "8255306220"
+    },
+    {
+      "name": "windows",
+      "id": "9066167010"
+    }
+  ],
+  "mutedGameSoundIds": [
+    "13110130082",
+    "16537449730",
+    "16537337310"
   ]
 }

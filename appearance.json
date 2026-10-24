@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "source": {
+    "materials": {
+      "file": "Unnamed_Enhancements.lua",
+      "method": "Decoded constant operands and traced root VM table assignments"
+    },
+    "defaults": "Integration defaults"
+  },
+  "materials": [
+    "ForceField",
+    "Neon",
+    "Plastic",
+    "SmoothPlastic",
+    "Wood",
+    "WoodPlanks",
+    "Marble",
+    "Slate",
+    "Concrete",
+    "Granite",
+    "Brick",
+    "Pebble",
+    "Cobblestone",
+    "Rock",
+    "Sandstone",
+    "Basalt",
+    "CrackedLava",
+    "Limestone",
+    "Pavement",
+    "CorrodedMetal",
+    "DiamondPlate",
+    "Foil",
+    "Metal",
+    "Grass",
+    "LeafyGrass",
+    "Sand",
+    "Fabric",
+    "Snow",
+    "Mud",
+    "Ground",
+    "Asphalt",
+    "Salt",
+    "Ice",
+    "Glacier",
+    "Glass"
+  ],
+  "defaults": {
+    "weaponColor": "BE96FF",
+    "armsColor": "FFDCC8",
+    "weatherColors": [
+      "FFFFFF",
+      "FFFFFF",
+      "FFFFFF"
+    ]
+  }
+}

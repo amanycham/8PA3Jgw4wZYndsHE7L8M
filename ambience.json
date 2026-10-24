@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": {
+    "file": "Unnamed_Enhancements.lua",
+    "method": "Decoded constant operands and traced root VM table assignments"
+  },
+  "sounds": [
+    {
+      "name": "Rain",
+      "id": "9112858162"
+    },
+    {
+      "name": "Heavy Rain",
+      "id": "9064263922"
+    },
+    {
+      "name": "Light Rain And Thunder",
+      "id": "9120018695"
+    },
+    {
+      "name": "Forest Rain Night",
+      "id": "5356133579"
+    },
+    {
+      "name": "Windy Day",
+      "id": "159798309"
+    },
+    {
+      "name": "City",
+      "id": "238385471"
+    }
+  ]
+}
