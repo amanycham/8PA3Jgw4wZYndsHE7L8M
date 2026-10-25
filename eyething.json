@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "key": "rifle",
+      "name": "Boneclaw Rifle",
+      "replacement_rules": [
+        {
+          "name": "boneclaw body",
+          "replace_ids": [
+            "12613284249"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Rifle/raw/refs/heads/main/eyething%20bc%20body.obj"
+        },
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            "12613284036",
+            "12613283569",
+            "12613284768",
+            "12613283355"
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "mag",
+          "replace_ids": [
+            "12613284529"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Rifle/raw/refs/heads/main/eyething%20bc%20mag.obj"
+        },
+        {
+          "name": "boneclaw shoot",
+          "replace_ids": [
+            "13087362838"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Rifle/raw/refs/heads/main/eyething%20boneclaw.mp3"
+        },
+        {
+          "name": "asset replace",
+          "replace_ids": [
+            "17160682738"
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": "100015754284323"
+        },
+        {
+          "name": "upper",
+          "replace_ids": [
+            "14652718299"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Rifle/raw/refs/heads/main/eyething%20bc%20eyes.obj"
+        }
+      ]
+    },
+    {
+      "key": "fists",
+      "name": "Fists",
+      "replacement_rules": [
+        {
+          "name": "attack",
+          "replace_ids": [
+            "13160401062"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20punch.mp3"
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            "13160489311"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20crack.mp3"
+        },
+        {
+          "name": "fists",
+          "replace_ids": [
+            "12307734932",
+            "12307583853"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20fists.obj"
+        }
+      ]
+    },
+    {
+      "key": "revolver",
+      "name": "Boneclaw Revolver",
+      "replacement_rules": [
+        {
+          "name": "body",
+          "replace_ids": [
+            "14002831630"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Revolver/raw/refs/heads/main/eyething%20boneclaw%20body.obj"
+        },
+        {
+          "name": "chamber",
+          "replace_ids": [
+            "14242054035"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Revolver/raw/refs/heads/main/eyething%20boneclaw%20chamber.obj"
+        },
+        {
+          "name": "shoot sound",
+          "replace_ids": [
+            "14417089046",
+            "14417089152",
+            "14417088974",
+            "14417089307"
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": "104731232227748"
+        },
+        {
+          "name": "remove",
+          "replace_ids": [
+            "14002774305",
+            "14241792580",
+            "14002774206"
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "icon 1",
+          "replace_ids": [
+            "17160800299"
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": "119174697609264"
+        },
+        {
+          "name": "icon 2",
+          "replace_ids": [
+            "14020829500"
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": "134217952089145"
+        },
+        {
+          "name": "upper",
+          "replace_ids": [
+            "14242054178"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Revolver/raw/refs/heads/main/eyething%20boneclaw%20eyes.obj"
+        }
+      ]
+    }
+  ]
+}
